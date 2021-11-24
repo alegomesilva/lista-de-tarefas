@@ -20,7 +20,4 @@ router.put('/:id', tarefasController.editTarefa);
 router.delete('/:id', tarefasController.deleteTarefa);
 
 
-
-
-
 module.exports = router;
