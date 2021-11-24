@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 const mongoose = require('mongoose');
 
@@ -18,7 +18,7 @@ const Conn = (url, user, pass, data) => {
 }
 
 
-=======
+
 
 const mongoose = require('mongoose');
 
@@ -38,5 +38,5 @@ const Conn = (url, user, pass, data) => {
 }
 
 
->>>>>>> 6885d66c56ea0187e081247acfb4db1a86b4d399
+
 module.exports = Conn;

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const TarefasService = require('./../services/tarefas.service');
 
 const tarefasService = new TarefasService;
@@ -68,7 +68,7 @@ class tarefasController {
   }
 }
 
-=======
+
 const TarefasService = require('./../services/tarefas.service');
 
 const tarefasService = new TarefasService;
@@ -138,5 +138,5 @@ class tarefasController {
   }
 }
 
->>>>>>> 6885d66c56ea0187e081247acfb4db1a86b4d399
+
 module.exports = tarefasController;

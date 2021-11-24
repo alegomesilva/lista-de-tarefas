@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const mongoose = require('mongoose');
 
 
@@ -14,7 +14,7 @@ const tarefaSchema = new mongoose.Schema({
 
 const TarefaModel = mongoose.model('tarefas', tarefaSchema);
 
-=======
+
 const mongoose = require('mongoose');
 
 
@@ -30,5 +30,5 @@ const tarefaSchema = new mongoose.Schema({
 
 const TarefaModel = mongoose.model('tarefas', tarefaSchema);
 
->>>>>>> 6885d66c56ea0187e081247acfb4db1a86b4d399
+
 module.exports = TarefaModel;
